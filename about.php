@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Roux Academy - Home</title>
+    <title>Roux Academy - About us</title>
     <link href='https://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
@@ -17,7 +17,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body id="home">
+  <body id="about">
       
       <section class="container">
           <div class="content row">
